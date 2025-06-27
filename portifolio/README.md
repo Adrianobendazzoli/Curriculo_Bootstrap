@@ -1,2 +1,2 @@
 # Meu portifolio em bootstrap
-## https://adrianobendazzoli.github.io/portifolio/
+## https://github.com/Adrianobendazzoli/Curriculo_Bootstrap/
